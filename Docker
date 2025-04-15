@@ -2,7 +2,6 @@
 
 Instal Docker 
 
-
 yum install docker 
 
 # check Docker installed 
